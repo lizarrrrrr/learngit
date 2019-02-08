@@ -1,5 +1,4 @@
 edit on dev Git is a version control system.
 Git is free software distributed under GPL.
-Git has a mutable index called stage.
-Creating a new branch is quick & simple
+Git has mutable index called stage.
 
